@@ -1,0 +1,51 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+	font-family: "微软雅黑", helvetica, arial;
+}
+table, body {
+	font-size: 14px;
+	line-height: 1.8em;
+	font-family: "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif;
+	color: #747f8c;
+}
+.box {
+	width: 900px;
+	margin-right: auto;
+	margin-left: 270px;
+}
+h1, h2, h3, h4, h5, h6, a {
+	color: #38485a;
+}
+small {
+	color: #999;
+}
+td {
+	border-bottom: solid 1px #CCCCCC;
+	padding: 5px;
+}
+.tableTitle {
+	background-color: #EBEBEB;
+	font-weight: bold;
+	color: #000;
+}
+.info {
+	color: #999;
+}
+#listbox {
+	position: absolute;
+	z-index: 1;
+	background-color: #FFF;
+	top: 10px;
+	left: 10px;
+	border: solid 1px #CCC;
+	border-radius: 10px;
+	padding: 15px;
+}
+a {
+	text-decoration: none;
+	color: #294E5B;
+}
+#listbox a {
+	display: block;
+}
